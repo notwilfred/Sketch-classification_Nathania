@@ -1,0 +1,18 @@
+body{
+    background-color: aqua;
+}
+
+#Score{
+    font-size: medium;
+    margin-left: 40px;
+}
+
+#Timer{
+    font-size: medium;
+    float: right;
+    margin-right: 40px;
+}
+
+#to_be_drawn_sketch{
+    color: black;
+}
